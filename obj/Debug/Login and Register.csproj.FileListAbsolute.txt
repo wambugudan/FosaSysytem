@@ -1,0 +1,101 @@
+D:\DEVs\C#\Login and Register\bin\Debug\Login and Register.exe.config
+D:\DEVs\C#\Login and Register\bin\Debug\Login and Register.exe
+D:\DEVs\C#\Login and Register\bin\Debug\Login and Register.pdb
+D:\DEVs\C#\Login and Register\obj\Debug\Login and Register.csproj.AssemblyReference.cache
+D:\DEVs\C#\Login and Register\obj\Debug\Login_and_Register.frmRegister.resources
+D:\DEVs\C#\Login and Register\obj\Debug\Login_and_Register.frmLogin.resources
+D:\DEVs\C#\Login and Register\obj\Debug\Login_and_Register.Properties.Resources.resources
+D:\DEVs\C#\Login and Register\obj\Debug\Login and Register.csproj.GenerateResource.cache
+D:\DEVs\C#\Login and Register\obj\Debug\Login and Register.csproj.CoreCompileInputs.cache
+D:\DEVs\C#\Login and Register\obj\Debug\Login and Register.exe
+D:\DEVs\C#\Login and Register\obj\Debug\Login and Register.pdb
+C:\Users\Wambugu\Desktop\Jado\C#\Login and Register\bin\Debug\Login and Register.exe.config
+C:\Users\Wambugu\Desktop\Jado\C#\Login and Register\bin\Debug\Login and Register.exe
+C:\Users\Wambugu\Desktop\Jado\C#\Login and Register\bin\Debug\Login and Register.pdb
+C:\Users\Wambugu\Desktop\Jado\C#\Login and Register\obj\Debug\Login and Register.csproj.AssemblyReference.cache
+C:\Users\Wambugu\Desktop\Jado\C#\Login and Register\obj\Debug\Login_and_Register.frmRegister.resources
+C:\Users\Wambugu\Desktop\Jado\C#\Login and Register\obj\Debug\Login_and_Register.frmLogin.resources
+C:\Users\Wambugu\Desktop\Jado\C#\Login and Register\obj\Debug\Login_and_Register.Properties.Resources.resources
+C:\Users\Wambugu\Desktop\Jado\C#\Login and Register\obj\Debug\Login and Register.csproj.GenerateResource.cache
+C:\Users\Wambugu\Desktop\Jado\C#\Login and Register\obj\Debug\Login and Register.csproj.CoreCompileInputs.cache
+C:\Users\Wambugu\Desktop\Jado\C#\Login and Register\obj\Debug\Login and Register.exe
+C:\Users\Wambugu\Desktop\Jado\C#\Login and Register\obj\Debug\Login and Register.pdb
+C:\Users\Wambugu\Desktop\Jado\C#\Login and Register\obj\Debug\Login_and_Register.memberRegistration.resources
+C:\Users\Wambugu\Desktop\Jado\C#\Login and Register\obj\Debug\Login_and_Register.Dashboard.resources
+C:\Users\Wambugu\Desktop\Jado\C#\Login and Register\obj\Debug\Login_and_Register.GuarantorsReg.resources
+E:\design\C#\Jado\C#\Login and Register\bin\Debug\Login and Register.exe.config
+E:\design\C#\Jado\C#\Login and Register\bin\Debug\Login and Register.exe
+E:\design\C#\Jado\C#\Login and Register\bin\Debug\Login and Register.pdb
+E:\design\C#\Jado\C#\Login and Register\obj\Debug\Login and Register.csproj.AssemblyReference.cache
+E:\design\C#\Jado\C#\Login and Register\obj\Debug\Login_and_Register.Dashboard.resources
+E:\design\C#\Jado\C#\Login and Register\obj\Debug\Login_and_Register.frmRegister.resources
+E:\design\C#\Jado\C#\Login and Register\obj\Debug\Login_and_Register.frmLogin.resources
+E:\design\C#\Jado\C#\Login and Register\obj\Debug\Login_and_Register.GuarantorsReg.resources
+E:\design\C#\Jado\C#\Login and Register\obj\Debug\Login_and_Register.memberRegistration.resources
+E:\design\C#\Jado\C#\Login and Register\obj\Debug\Login_and_Register.Properties.Resources.resources
+E:\design\C#\Jado\C#\Login and Register\obj\Debug\Login and Register.csproj.GenerateResource.cache
+E:\design\C#\Jado\C#\Login and Register\obj\Debug\Login and Register.csproj.CoreCompileInputs.cache
+E:\design\C#\Jado\C#\Login and Register\obj\Debug\Login and Register.exe
+E:\design\C#\Jado\C#\Login and Register\obj\Debug\Login and Register.pdb
+C:\Users\dwambugu\Desktop\Dan\Login and Register\bin\Debug\Login and Register.exe.config
+C:\Users\dwambugu\Desktop\Dan\Login and Register\bin\Debug\Login and Register.exe
+C:\Users\dwambugu\Desktop\Dan\Login and Register\bin\Debug\Login and Register.pdb
+C:\Users\dwambugu\Desktop\Dan\Login and Register\obj\Debug\Login_and_Register.Dashboard.resources
+C:\Users\dwambugu\Desktop\Dan\Login and Register\obj\Debug\Login_and_Register.frmRegister.resources
+C:\Users\dwambugu\Desktop\Dan\Login and Register\obj\Debug\Login_and_Register.frmLogin.resources
+C:\Users\dwambugu\Desktop\Dan\Login and Register\obj\Debug\Login_and_Register.GuarantorsReg.resources
+C:\Users\dwambugu\Desktop\Dan\Login and Register\obj\Debug\Login_and_Register.memberRegistration.resources
+C:\Users\dwambugu\Desktop\Dan\Login and Register\obj\Debug\Login_and_Register.Properties.Resources.resources
+C:\Users\dwambugu\Desktop\Dan\Login and Register\obj\Debug\Login and Register.csproj.GenerateResource.cache
+C:\Users\dwambugu\Desktop\Dan\Login and Register\obj\Debug\Login and Register.csproj.CoreCompileInputs.cache
+C:\Users\dwambugu\Desktop\Dan\Login and Register\obj\Debug\Login and Register.exe
+C:\Users\dwambugu\Desktop\Dan\Login and Register\obj\Debug\Login and Register.pdb
+D:\Login and Register\bin\Debug\Login and Register.exe.config
+D:\Login and Register\bin\Debug\Login and Register.exe
+D:\Login and Register\bin\Debug\Login and Register.pdb
+D:\Login and Register\obj\Debug\Login and Register.csproj.AssemblyReference.cache
+D:\Login and Register\obj\Debug\Login_and_Register.Dashboard.resources
+D:\Login and Register\obj\Debug\Login_and_Register.frmRegister.resources
+D:\Login and Register\obj\Debug\Login_and_Register.frmLogin.resources
+D:\Login and Register\obj\Debug\Login_and_Register.GuarantorsReg.resources
+D:\Login and Register\obj\Debug\Login_and_Register.Loans.resources
+D:\Login and Register\obj\Debug\Login_and_Register.memberRegistration.resources
+D:\Login and Register\obj\Debug\Login_and_Register.Properties.Resources.resources
+D:\Login and Register\obj\Debug\Login and Register.csproj.GenerateResource.cache
+D:\Login and Register\obj\Debug\Login and Register.csproj.CoreCompileInputs.cache
+D:\Login and Register\obj\Debug\Login and Register.exe
+D:\Login and Register\obj\Debug\Login and Register.pdb
+C:\Users\dwambugu\Desktop\Dan\Login and Register\obj\Debug\Login_and_Register.Loans.resources
+C:\Users\dwambugu\Desktop\Dan\Login and Register\obj\Debug\Login_and_Register.View_Loans.resources
+C:\Users\dwambugu\Desktop\Dan\Login and Register\obj\Debug\Login_and_Register.Edit_Loan.resources
+C:\Users\dwambugu\Desktop\Dan\Login and Register\obj\Debug\Login_and_Register.Clear_Loan.resources
+C:\Users\dwambugu\Desktop\Dan\Login and Register\obj\Debug\Login_and_Register.ClearedLoans.resources
+C:\Users\dwambugu\Desktop\Dan\Login and Register\bin\Debug\CircularProgressBar.dll
+C:\Users\dwambugu\Desktop\Dan\Login and Register\bin\Debug\WinFormAnimation.dll
+C:\Users\dwambugu\Desktop\Dan\Login and Register\bin\Debug\CircularProgressBar.xml
+C:\Users\dwambugu\Desktop\Dan\Login and Register\obj\Debug\Login_and_Register.SplashForm.resources
+C:\Users\dwambugu\Desktop\Dan\Login and Register\obj\Debug\Login and Register.csproj.CopyComplete
+E:\Login and Register\bin\Debug\Login and Register.exe.config
+E:\Login and Register\bin\Debug\Login and Register.exe
+E:\Login and Register\bin\Debug\Login and Register.pdb
+E:\Login and Register\bin\Debug\CircularProgressBar.dll
+E:\Login and Register\bin\Debug\WinFormAnimation.dll
+E:\Login and Register\bin\Debug\CircularProgressBar.xml
+E:\Login and Register\obj\Debug\Login and Register.csproj.AssemblyReference.cache
+E:\Login and Register\obj\Debug\Login_and_Register.ClearedLoans.resources
+E:\Login and Register\obj\Debug\Login_and_Register.Clear_Loan.resources
+E:\Login and Register\obj\Debug\Login_and_Register.Dashboard.resources
+E:\Login and Register\obj\Debug\Login_and_Register.Edit_Loan.resources
+E:\Login and Register\obj\Debug\Login_and_Register.frmRegister.resources
+E:\Login and Register\obj\Debug\Login_and_Register.frmLogin.resources
+E:\Login and Register\obj\Debug\Login_and_Register.GuarantorsReg.resources
+E:\Login and Register\obj\Debug\Login_and_Register.Loans.resources
+E:\Login and Register\obj\Debug\Login_and_Register.memberRegistration.resources
+E:\Login and Register\obj\Debug\Login_and_Register.Properties.Resources.resources
+E:\Login and Register\obj\Debug\Login_and_Register.SplashForm.resources
+E:\Login and Register\obj\Debug\Login_and_Register.View_Loans.resources
+E:\Login and Register\obj\Debug\Login and Register.csproj.GenerateResource.cache
+E:\Login and Register\obj\Debug\Login and Register.csproj.CoreCompileInputs.cache
+E:\Login and Register\obj\Debug\Login and Register.csproj.CopyComplete
+E:\Login and Register\obj\Debug\Login and Register.exe
+E:\Login and Register\obj\Debug\Login and Register.pdb

@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login and Register", "Login and Register.csproj", "{48B94497-88BF-4BB4-90E7-19F9D99EAAE9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Fosa_System", "..\Fosa_System\Fosa_System.vdproj", "{51A64115-2E81-4B4D-A655-9E862FFB27D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48B94497-88BF-4BB4-90E7-19F9D99EAAE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48B94497-88BF-4BB4-90E7-19F9D99EAAE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48B94497-88BF-4BB4-90E7-19F9D99EAAE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48B94497-88BF-4BB4-90E7-19F9D99EAAE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51A64115-2E81-4B4D-A655-9E862FFB27D4}.Debug|Any CPU.ActiveCfg = Debug
+		{51A64115-2E81-4B4D-A655-9E862FFB27D4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25DCA233-9703-4ED7-BC77-377833EE02E9}
+	EndGlobalSection
+EndGlobal
